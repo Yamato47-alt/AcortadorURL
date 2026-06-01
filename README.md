@@ -55,7 +55,7 @@ dotnet tool install --global dotnet-ef
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/AcortadorURL.git
+git clone https://github.com/Yamato47-alt/AcortadorURL.git
 cd AcortadorURL/AcortadorURL
 ```
 
