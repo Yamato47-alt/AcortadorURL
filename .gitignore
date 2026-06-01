@@ -1,0 +1,12 @@
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+appsettings.Local.json
+
+node_modules/
+dist/
+build/
+.env
